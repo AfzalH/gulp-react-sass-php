@@ -1,0 +1,11 @@
+$bgcolor: #eeeeee;
+
+body{
+  background: $bgcolor;
+}
+
+.test{
+  transition: all 1s;
+}
+
+@import "header";
